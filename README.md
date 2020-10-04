@@ -7,5 +7,5 @@ In order to find out more, check out the **[instructions repository](https://htt
 
 ## Repositories
 
-![Repository](https://github.com/GuilhermeErthal/Gostack-GoRestaurante-ReactJS/src/assets/gorestaurant.gif)
+![Repository](https://github.com/GuilhermeErthal/Gostack-GoRestaurante-ReactJS/blob/master/src/assets/gorestaurant.gif)
 
